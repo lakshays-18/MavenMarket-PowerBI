@@ -10,3 +10,4 @@ This Power BI dashboard analyzes key performance indicators for a fictional reta
 🔧 Built with Power BI and DAX. Includes time intelligence (YTD, Last Month) and dynamic KPIs.
 
 ![Screenshot 2025-06-27 161456](https://github.com/user-attachments/assets/77a98e9f-aa45-47d0-a07c-41b759a9fedb)
+![image](https://github.com/user-attachments/assets/d4d38d20-9a57-4b2b-9dbf-ec908844a1dd)
